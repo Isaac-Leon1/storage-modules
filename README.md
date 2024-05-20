@@ -55,14 +55,14 @@ validaciones u otros temas que se requiera, a continuación, se muestra como acc
     Fig. Obtener un elemento del localStorage
   </i>
 </div>
+<p>
+  En este caso se usa el metodo <code>getItem()</code> para obtener un elemento del <i>localStorage</i>, lo que se obtendra será el elemento con clave <i>“post7”</i> del localStorage,
+  como el valor que se espera obtener es un JSON, se hace uso de <code>JSON.parse()</code> para convertir la cadena JSON recibido en un formato JSON valido <br>
+  y se imprime el resultado en consola.
+</p>
 
 <h2>
   <i>
     C. Modules
   </i>
 </h2>
-<p>
-  En este caso se usa el metodo <code>getItem()</code> para obtener un elemento del <i>localStorage</i>, lo que se obtendra será el elemento con clave <i>“post7”</i> del localStorage,
-  como el valor que se espera obtener es un JSON, se hace uso de <code>JSON.parse()</code> para convertir la cadena JSON recibido en un formato JSON valido <br>
-  y se imprime el resultado en consola.
-</p>
