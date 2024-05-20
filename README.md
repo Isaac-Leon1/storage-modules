@@ -10,7 +10,7 @@
 2.	Guardar un objeto en localStorage
 </strong>
 <p align="center">
-  Código fuente en: <i>localStorage_guardar_y_obtener_valores.js</i> <br>
+  Código fuente en: <i>localStorage-save-and-get-objects.js</i> <br>
 </p>
 Guardar información en el localStorage permite mantener la información incluso si el navegador o la pestaña de cierra,
 aquí hay un ejemplo de como guardar un objeto (que representa información) en el localStorage.
@@ -34,7 +34,7 @@ aquí hay un ejemplo de como guardar un objeto (que representa información) en 
   3.	Obtener un objeto en localStorage
 </strong>
 <p align="center">
-  Código fuente en: <i>localStorage_guardar_y_obtener_valores.js</i> <br>
+  Código fuente en: <i>localStorage-save-and-get-objects.js</i> <br>
 </p>
 Obtener información del localStorage es vital para el sitio web, no solo basta con guardarla, sino, también en usarla en <br>
 validaciones u otros temas que se requiera, a continuación, se muestra como acceder al elemento con clave <i>"post7"</i>, mismo que se guardó previamente.
